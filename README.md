@@ -47,7 +47,7 @@ A Rule Builder application “Decision Hub” that empowers Business Analysts to
 
 ### Clone the repository
 
-1. Clone the repository: `git clone https://github.com/rishavchanda/DecisionHub.git`
+1. Clone the repository: `git clone https://github.com/shubhamraj-24/DecisionHub.git`
 
 ### Configure the client
 
